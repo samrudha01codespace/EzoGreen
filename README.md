@@ -12,7 +12,7 @@ Welcome to the ezogreen app repository! This mobile application is dedicated to 
 6. *Community Engagement*: A community forum enables volunteers to connect with each other, share tips and experiences, and collaborate on future clean-up initiatives.
 7. *Notifications*: Users receive notifications about upcoming events, new volunteer opportunities, and important updates from event organizers.
 8. *Feedback and Reporting*: Volunteers can provide feedback on events and report any environmental concerns or issues they encounter during clean-up activities.
-9. 
+
 ## Technologies Used
 - *Language*: Kotlin for Android app development.
 - *Development Environment*: Android Studio for IDE.
